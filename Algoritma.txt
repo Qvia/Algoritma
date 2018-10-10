@@ -1,0 +1,36 @@
+       BÝZÝM ÞUANLIK UYGULAMAMIZ GEREKEN ALGORÝTMA
+1:SABIRLI OL
+2:KENDÝ ALANINDA GELÝÞ
+3:HER FÝKRÝNÝ PAYLAÞ
+4:NE YAPMAK ÝSTEDÝÐÝNÝ VE YAPACAÐINI BÝL
+5:VERÝLEN GÖREVLERÝ YAP
+
+
+        MASAÜSTÜ UYGULAMA ALGORÝTMASI
+A1:Baþla
+
+A2:Tarih Seçme iþlemi kullanýcýlara sunulacak.
+
+A3:Tarih seçildikden sonra yeni formda bölmeler açýlacak ve seçilen saatlere kendi günlük iþlerini yazacaklar.
+
+A4:Vakit seçilen saate geldikden sonra bilgisayarda sol alt köþede bir alarm belirecek ve uygulama hatýrlatma yapýlacak.
+
+A5:Kullanýcý iþini tamamladýkdan sonra uygulamamýzda bir ekran açýlacak ve iþinizi bitirdinizmi yazacak kullanýcý cevaplayacak.
+
+A6:Alýnan veriler örneðin kaç saatte iþini bitirdiði hangi iþi yaptýðý gibi þeyler veri tabanýnda depolanacak.
+
+A7:Uygulamaya yeni arayüz eklenip içerisine kullanýcý istatistikleri girilecek.
+
+A8:Uygulamaya yeni arayüz eklenip içerisine günlük kullanýcýyý motive edecek sözler,bilgiler eklenecek.
+
+A9:Uygulamaya istekler,þikayetler,öneriler bölümü eklenecek.
+
+A10:Bitir.    
+           TELEFON UYGULAMASI ALGORÝTMASI
+B1:Baþla
+
+B2:Masaüstü uygulamasý ile ayný þekilde uygulamayý yaz
+
+B3:Kullanýcýnýn iþ vakti geldiðinde telefonunda alarm çaldýr veya sms gönder
+
+B4:Bitir
